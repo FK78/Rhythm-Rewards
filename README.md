@@ -1,1 +1,1 @@
-# Rhythm-Rewards
+# Rhythm Rewards

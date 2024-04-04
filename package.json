@@ -1,0 +1,23 @@
+{
+  "name": "rhythm-rewards",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FK78/rhythm-rewards.git"
+  },
+  "author": "FK78",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FK78/rhythm-rewards/issues"
+  },
+  "homepage": "https://github.com/FK78/rhythm-rewards#readme",
+  "dependencies": {
+    "mocha": "^10.4.0",
+    "mongoose": "^8.3.0"
+  }
+}
